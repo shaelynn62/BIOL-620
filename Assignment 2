@@ -1,0 +1,4 @@
+#Author: Shaelynn Frederick, Date:02/08/22 , Purpose: Anazlyze dummy microarray data
+
+#Setting the working directory
+setwd("C:/Users/tawana.howell/Desktop/(1) GSE 344")

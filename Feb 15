@@ -1,0 +1,10 @@
+Author: Shaelynn Frederick, Date: 02/15/22, Purpose: To perform microarray normalization
+
+#Set the working directory to your .CEL files folder
+setwd(" C:/Users/tawana.howell/Desktop/(1) GSE 344")
+
+#Load package affy
+library(affy)
+
+#Reading the .CEL files
+eset
